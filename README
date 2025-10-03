@@ -1,0 +1,13 @@
+# Scratch beginners guide
+
+This project is meant to be a introduction into programming. It will teach you the most basic parts of a program. We will start by zero and no knowledge should be needed to follow the exercises.
+
+To acomplish this tasks we will use the scratch grafical programming tool. It can be used either in a web browser interface [scratch.mit.edu](https://scratch.mit.edu/), or as a desktop app for several different platforms ([downlaods](https://scratch.mit.edu/download)).
+
+## Structure
+
+The project is structured in different folders. Each is representing one chapter of the course and has a *exercise.md* file in it. The exercise file will include all the information needed to compete the task of this chapter.
+
+As in programming there is not one correct solution, there will only be an example project. This will give an idea of how a solution could look like. But if you reach the goal in some other way, this is fine, too.
+
+In some chapter there will also be a *hint.md* file. Inside there are some additional information to the given task, to possible different solutions, pros and cons to them and information to the learning purpose of the chapter.
