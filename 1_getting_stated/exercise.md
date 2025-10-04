@@ -17,3 +17,9 @@ Next part of the IDE is the *Code* area on the left. If you processed the first 
 The code blocks are sorted into different categories, which discribe the purpose of the blocks. For example you have a *Motion* categorie, which is used to move sprites around. There are categories very specific to Scratch, which already abstract some logic in it, but there are also more general elements like *Variables* or *Control*. These are more basic operations, which you will find in similar ways in the most programming languages. Last but lost least there is a category named *My Blocks*, which can hold blocks you designed on your own. This is very similar to functions or methods in other languages. Generating on blocks to reuse logic is a very common solution in programming to not do the same logic over and over again.
 
 The task of this chapter is to make yourself familiar with the different code blocks and try to move your sprite around the screen. Check out what happens when you create multiple move operations at the same time to one sprite.
+
+## 1.3 Sounds
+
+To make your program more imercive for the user you can add sounds to it. To do so you can use the *Sounds* tab in the up left of the screen. You have different posibilities to add sound. You can choose it upload sound from files or record them by yourself. There is also already a big library of sound, which can be used.
+
+Try to add some sound to your sprite, possibly when some action is performed.
